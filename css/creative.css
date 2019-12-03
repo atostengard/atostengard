@@ -6205,7 +6205,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #8a7dff !important;
+  background-color: rgb(138,125,255,.75) !important;
 }
 
 .bg-primary2 {
