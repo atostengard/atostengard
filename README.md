@@ -1,2 +1,2 @@
 # atostengard
-Resume website built using Bootstrap.
+Resume website built using Bootstrap and GitHub pages.
