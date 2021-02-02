@@ -21,7 +21,7 @@
   <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
 
   <!-- Theme CSS - Includes Bootstrap -->
-  <link href="css/creative.css" rel="stylesheet">
+  <link href="css/creative.min.css" rel="stylesheet">
 
 </head>
 
@@ -64,7 +64,7 @@
           <hr class="divider my-4">
         </div>
         <div class="col-lg-8 align-self-baseline">
-          <p class="font-weight-light mb-5">A recent computer science master’s graduate who combines solid technical knowledge and abilities with excellent communication skills. Proven ability to overcome obstacles and solve problems. Reliable when working alone and productive when collaborating with others. Adaptive, detail-oriented, and always ready and eager to learn new things.  </p>
+          <p class="font-weight-light mb-5">Self-motivated and dedicated recent Computer Science graduate student looking to find a work home. I received my Bachelor's degree in Geoscience in 2012, and now after completing my Master's, I'm seeking to combine my strong technical ability with excellent communication skills.</p>
         </div>
       </div>
     </div>
@@ -77,7 +77,7 @@
         <div class="col-lg-8 text-center">
           <h2 class="text-white mt-0">Skills</h2>
           <hr class="divider light my-4">
-          <p class="text-white-75 mb-4"></p>
+          <p class="text-white-75 mb-4">I've worked in many different fields, from wellsite geologist to graduate research assistant in a mass spectrometry lab. All these disparate fields, however, require many of the same skills. </p>
         </div>
       </div>
 	  <div class="row">
@@ -116,43 +116,30 @@
   <!-- Experience Section -->
   <section id="experience">
     <div class="container-fluid p-0">
-      <div class="container-fluid p-0">
-	<div class="row no-gutters">
-			<div class="jobDesc">
-				<h2>Technical Editor - American Journal Experts</h2>
-				<h5>July 2020 - Present</h5>
-				+Help international researchers eliminate language barriers and get their work published<br><br>
-				+Provide editing, revisions, and proofreading in the fields of computer science, bioinformatics, and earth science<br><br>
-				+Strengthen writing by improving clarity, word choice, and style<br><br>
-				+Consistently deliver high-quality edits on-time from home<br><br>
-			</div>
-			<img class="jobDescThumbnail" src="img/portfolio/thumbnails/5.jpg" alt="">
-		</div>
-	
+      <div class="row no-gutters">
         <div class="row no-gutters">
-			<img class="jobDescThumbnail" src="img/portfolio/thumbnails/1.jpg" alt="">
-			<div class="jobDesc">
+			<img class="img-fluid" src="img/portfolio/thumbnails/1.jpg" alt="">
+			<div class="text-center" style="width:700px !important; margin-top:60px !important;">
 				<h2>Research Assistant - University of Montana</h2>
-				<h5>September 2017 - January 2021</h5>
+				<h5>September 2017 - Present</h5>
 				+Quickly adapted to an unfamiliar field to conduct quantitative evaluations of data analysis techniques in mass spectrometry resulting in publication<br><br>
-				+Wrote a high volume of high-performance code in Ruby, R, and Python to process and manipulate files multiple gigabytes in size<br><br>
 				+Designed high quality posters and graphs to demonstrate research findings at scientific conferences and in print<br><br>
 				+Exceeded job description by assisting with editing and proofreading publications<br><br>
 			</div>
 		</div>
         <div class="row no-gutters">
-			<div class="jobDesc">
+			<div class="text-center" style="width:700px !important; height: 482px !important; margin-top:80px !important;">
 				<h2>Math Tutor - University of Montana</h2>
 				<h5>September 2016 - December 2017</h5>
 				+Adeptly assessed students to provide personalized tutoring to struggling students to help them overcome academic obstacles<br><br>
 				+Successfully individualized tutoring process accoridng to specific students' needs<br><br>
 				+Helped students feel comfortable in order to create an environment conducive to asking questions and starting discussions<br><br>
 			</div>
-			<img class="jobDescThumbnail" src="img/portfolio/thumbnails/2.jpg" alt="">
+			<img class="img-fluid" src="img/portfolio/thumbnails/2.jpg" alt="">
 		</div>
 		<div class="row no-gutters">
-			<img class="jobDescThumbnail" src="img/portfolio/thumbnails/3.jpg" alt="">
-			<div class="jobDesc">
+			<img class="img-fluid" src="img/portfolio/thumbnails/3.jpg" alt="">
+			<div class="text-center" style="width:700px !important; margin-top:80px !important;">
 				<h2>Freelance Writer - Self-Employed</h2>
 				<h5>January 2015 - September 2016</h5>
 				+Rapidly learned about a variety of fields to effectively communicate research for scientists from around the world<br><br>
@@ -164,14 +151,14 @@
 			</div>
 		</div>
         <div class="row no-gutters">
-			<div class="jobDesc">
+			<div class="text-center" style="width:700px !important; margin-top:100px !important;">
 				<h2>Wellsite Geologist - RPM Geologic</h2>
 				<h5>February 2013 - December 2014</h5>
 				+Effectively managed on-site geology team<br><br>
 				+Provided excellent support to well site manager to avoid potential problems and complete projects on time<br><br>
 				+Facilitated quality communication between off-site engineers and on-site rig managers by acting as liaison<br><br>
 			</div>
-			<img class="jobDescThumbnail" src="img/portfolio/thumbnails/4.jpg" alt="">
+			<img class="img-fluid" src="img/portfolio/thumbnails/4.jpg" alt="">
 		</div>
       </div>
     </div>
@@ -184,25 +171,16 @@
         <div class="col-lg-8 text-center">
           <h2 class="text-white mt-0">Publications</h2>
           <hr class="divider light my-4">
-	           <div class="text-left">
-			  <a href="https://scholarworks.umt.edu/etd/11679/" class="pubTitle">A Review and Evaluation of Techniques for Improved Feature Detection in Mass Spectrometry Data</a>
-			  <p class="text-white-75 mb-4">Annika Tostengard, Rob Smith. 2020.</p> 
+		  <div class="text-left">
+			  <a href="https://arxiv.org/abs/1508.02982" style="color: #fff !important; font-weight: bold;">WearWrite: Orchestrating the Crowd to Complete Complex Tasks from Wearables (We Wrote This Paper on a Watch)</a>
+			  <p class="text-white-75 mb-4">Michael Nebeling, Anhong Guo, Kyle I. Murray, Annika Tostengard, Angelos Giannopoulos, Martin Mihajlov, Steven Dow, Jaime Teevan, Jeffrey P. Bigham. CoRR abs/1508.02982 (2015)</p>
 		   </div>
-	           <div class="text-left">
-			  <a href="https://pubs.acs.org/doi/10.1021/acs.jproteome.9b00768" class="pubTitle">Quantitative Evaluation of Ion Chromatogram Extraction Algorithms</a>
-			  <p class="text-white-75 mb-4">Annika Tostengard, Rob Smith. <i>J. Proteome Res.</i> 2020, 19, 5, 1953-1964</p> 
-		   </div>
-	           <div class="text-left">
-			  <div class="pubTitle">A Quantitative Evaluation of Ion Chromatogram Extraction Algorithms,</div> <p class="text-white-75 mb-4">Poster Presentation at the American Society of Mass Spectrometry Annual Conference, 2018 & 2019.</p>
-		   </div>
-	          <div class="text-left">
-			  <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.8b00659" class="pubTitle">A Peptide-Level Fully Annotated Data Set for Quantitative Evaluation of Precursor-Aware Mass Spectrometry Data Processing Algorithms</a>
+		   <div class="text-left">
+			  <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.8b00659" style="color: #fff !important; font-weight: bold;">A Peptide-Level Fully Annotated Data Set for Quantitative Evaluation of Precursor-Aware Mass Spectrometry Data Processing Algorithms</a>
 			  <p class="text-white-75 mb-4">Jessica Henning, Annika Tostengard, Rob Smith. <i>J. Proteome Res.</i> 2019, 18, 1, 392-398</p>
 		   </div>
-
-		  <div class="text-left">
-			  <a href="https://arxiv.org/abs/1508.02982" class="pubTitle">WearWrite: Orchestrating the Crowd to Complete Complex Tasks from Wearables (We Wrote This Paper on a Watch)</a>
-			  <p class="text-white-75 mb-4">Michael Nebeling, Anhong Guo, Kyle I. Murray, Annika Tostengard, Angelos Giannopoulos, Martin Mihajlov, Steven Dow, Jaime Teevan, Jeffrey P. Bigham. CoRR abs/1508.02982 (2015)</p>
+		   <div class="text-left">
+			  <div style="color: #fff !important; font-weight:bold;">A Quantitative Evaluation of Ion Chromatogram Extraction Algorithms,</div> <p class="text-white-75 mb-4">Poster Presentation at the American Society of Mass Spectrometry, 2018 & 2019.</p>
 		   </div>
         </div>
       </div>
